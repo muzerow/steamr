@@ -2,7 +2,7 @@
 % Please edit documentation in R/steam_game_data.r
 \name{steam_game_data}
 \alias{steam_game_data}
-\title{Steam Game Data}
+\title{Get Steam Game Data}
 \usage{
 steam_game_data(game_id, country = "us")
 }
