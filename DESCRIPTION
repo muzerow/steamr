@@ -1,4 +1,4 @@
-Package: steamR
+Package: steamr
 Type: Package
 Title: A Wrapper for Steam API
 Version: 0.1.0
