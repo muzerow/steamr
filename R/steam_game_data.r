@@ -1,4 +1,4 @@
-#' Steam Game Data
+#' Get Steam Game Data
 #'
 #' Steam data about a specific game
 #' @importFrom glue glue
