@@ -1,0 +1,12 @@
+Package: steamR
+Type: Package
+Title: A Wrapper for Steam API
+Version: 0.1.0
+Author: Kirill Mukhin (based upon SteamR by Andrew Lake)
+Maintainer: Kirill Mukhin <muzerow6@gmail.com>
+Description: Load data from Steam API.
+Imports: glue, jsonlite
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
